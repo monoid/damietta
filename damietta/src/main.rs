@@ -1,6 +1,6 @@
+use std::fs;
 use std::path::PathBuf;
 use structopt::StructOpt;
-use std::fs;
 
 #[derive(StructOpt)]
 struct Args {
