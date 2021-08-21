@@ -7,6 +7,7 @@ edition = "2018"
 
 [dependencies]
 elfloader = "0.14"
+iced-x86 = "1.13"
 log = "0.4"
 libc = "0.2"
-iced-x86 = "1.13"
+xmas-elf = "0.8"
